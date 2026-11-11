@@ -10,6 +10,11 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/ReviKim/SHAMUS-releases/releases/latest/download/SHAMUS-2.dmg"><b>⬇ Download SHAMUS 2 for Mac (.dmg)</b></a><br>
+  <sub>Latest version · Apple silicon · macOS 26 or later · <a href="https://github.com/ReviKim/SHAMUS-releases/releases">all releases</a></sub>
+</p>
+
+<p align="center">
   <img src="docs/readme/launcher.gif" alt="Launcher: calculator, currency, translation and Mac commands" width="760">
 </p>
 
@@ -65,12 +70,14 @@ SHAMUS ("shamus" is old slang for a detective) lives in the menu bar and has no 
 
 SHAMUS is shared with our team as a ready-made app. The source code is kept in a separate private repository.
 
-1. Open the [**Releases**](https://github.com/ReviKim/SHAMUS-releases/releases) page and download the latest `SHAMUS-2-x.y.z.zip`.
-2. Unzip it and move **SHAMUS 2.app** into your **Applications** folder.
-3. The first time only, **right-click the app → Open**, then click **Open** again. macOS asks this because the app was not downloaded from the App Store.
+1. Download [**SHAMUS-2.dmg**](https://github.com/ReviKim/SHAMUS-releases/releases/latest/download/SHAMUS-2.dmg) (this link always points to the latest version).
+2. Open the downloaded file. In the window that appears, drag **SHAMUS 2** onto the **Applications** folder.
+3. Open **SHAMUS 2** from the Applications folder. The app is signed and notarized by Apple, so it opens without a security warning. A detective-hat icon appears in the menu bar (there is no Dock icon).
 4. A welcome window shows the shortcut (**⌥ Space**). Features that need access to Contacts, Calendar or Reminders ask for it the first time you use them, and you can manage them in Settings.
 
-> No release has been published yet. The first one is coming soon.
+> If an older SHAMUS is running, quit it first (menu bar icon → Quit). Your settings and data are kept.
+>
+> The `.zip` file on the Releases page is used by the app's automatic update. You don't need to download it.
 
 ---
 
@@ -231,4 +238,6 @@ Passwords and tokens are stored only in the macOS **Keychain**.
 
 ## Updates
 
-New versions are published on the [Releases](https://github.com/ReviKim/SHAMUS-releases/releases) page. An in-app update check is on the way. Once it is in, SHAMUS will tell you when a new version is out and install it for you.
+You only install once. SHAMUS checks for a new version every 6 hours. When one is out, it shows a notice; click it and SHAMUS downloads the new version, swaps it in and restarts. It only accepts an app signed by our Apple developer account.
+
+Every version and its change notes are listed on the [Releases](https://github.com/ReviKim/SHAMUS-releases/releases) page.
