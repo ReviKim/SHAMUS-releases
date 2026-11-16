@@ -71,11 +71,13 @@ SHAMUS ("shamus" is old slang for a detective) lives in the menu bar and has no 
 SHAMUS is shared with our team as a ready-made app. The source code is kept in a separate private repository.
 
 1. Download [**SHAMUS-2.dmg**](https://github.com/ReviKim/SHAMUS-releases/releases/latest/download/SHAMUS-2.dmg) (this link always points to the latest version).
-2. Open the downloaded file. In the window that appears, drag **SHAMUS 2** onto the **Applications** folder.
-3. Open **SHAMUS 2** from the Applications folder. The app is signed and notarized by Apple, so it opens without a security warning. A detective-hat icon appears in the menu bar (there is no Dock icon).
+2. Open the downloaded file. In the window that appears, **double-click SHAMUS 2** (don't drag it to Applications).
+3. When it asks "Install SHAMUS 2 in the Applications folder?", click **Install** and enter your Mac's administrator password. SHAMUS 2 is copied into Applications and opens by itself. The app is signed and notarized by Apple, so there is no security warning. A detective-hat icon appears in the menu bar (there is no Dock icon).
 4. A welcome window shows the shortcut (**⌥ Space**). Features that need access to Contacts, Calendar or Reminders ask for it the first time you use them, and you can manage them in Settings.
 
-> If an older SHAMUS is running, quit it first (menu bar icon → Quit). Your settings and data are kept.
+> An older SHAMUS 2 is quit and moved to the Trash. Your settings and data are kept.
+>
+> Please don't drag the app into Applications. A dragged copy belongs to your user account, and on some Macs it then fails to open with "SHAMUS 2 is damaged". Automatic updates also ask for the administrator password, so the app stays installed the same way.
 >
 > The `.zip` file on the Releases page is used by the app's automatic update. You don't need to download it.
 
