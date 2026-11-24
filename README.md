@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ReviKim/SHAMUS-releases/releases/latest/download/SHAMUS-2.dmg"><b>⬇ Download SHAMUS 2 for Mac (.dmg)</b></a><br>
+  <a href="https://github.com/ReviKim/SHAMUS-releases/releases/latest/download/SHAMUS-2.pkg"><b>⬇ Download SHAMUS 2 for Mac (.pkg)</b></a><br>
   <sub>Latest version · Apple silicon · macOS 26 or later · <a href="https://github.com/ReviKim/SHAMUS-releases/releases">all releases</a></sub>
 </p>
 
@@ -70,10 +70,9 @@ SHAMUS ("shamus" is old slang for a detective) lives in the menu bar and has no 
 
 SHAMUS is shared with our team as a ready-made app. The source code is kept in a separate private repository.
 
-1. Download [**SHAMUS-2.dmg**](https://github.com/ReviKim/SHAMUS-releases/releases/latest/download/SHAMUS-2.dmg) (this link always points to the latest version).
-2. Open the downloaded file. In the window that appears, **double-click SHAMUS 2** (don't drag it to Applications).
-3. When it asks "Install SHAMUS 2 in the Applications folder?", click **Install** and enter your Mac's administrator password. SHAMUS 2 is copied into Applications and opens by itself. The app is signed and notarized by Apple, so there is no security warning. A detective-hat icon appears in the menu bar (there is no Dock icon).
-4. A welcome window shows the shortcut (**⌥ Space**). Features that need access to Contacts, Calendar or Reminders ask for it the first time you use them, and you can manage them in Settings.
+1. Download [**SHAMUS-2.pkg**](https://github.com/ReviKim/SHAMUS-releases/releases/latest/download/SHAMUS-2.pkg) (this link always points to the latest version).
+2. Open the downloaded file. The macOS installer starts. Click **Continue** and **Install**, then enter your Mac's administrator password. SHAMUS 2 is installed in Applications and opens by itself. The installer and the app are signed and notarized by Apple, so there is no security warning. A detective-hat icon appears in the menu bar (there is no Dock icon).
+3. A welcome window shows the shortcut (**⌥ Space**). Features that need access to Contacts, Calendar or Reminders ask for it the first time you use them, and you can manage them in Settings.
 
 > An older SHAMUS 2 is quit and moved to the Trash. Your settings and data are kept.
 >
